@@ -1,0 +1,3 @@
+# Wayfarer - A New Adventure
+
+Wayfarer is a new style of Minecraft modpack focused not on assembly lines or an unguided kitchensink experience, but instead attempts to create a linear story and progression system akin to Terraria. Players will explore and loot many custom structures and mobs, with a entirely custom difficulty curve that makes progression feel meaningful. The world has a procedural layout, with biomes being located in roughly the same locations. Each area has its own difficulty and may require the player to progress elsewhere before taking it on.
