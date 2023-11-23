@@ -1,0 +1,13 @@
+name = "Create: Cybers Better Copper"
+filename = "Cybers_better_copper.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be637ac08ddb387014de2b7b2fc1e3a4cc04e199"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4549961
+project-id = 711362

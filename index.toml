@@ -706,6 +706,11 @@ hash = "b7f2208957ae6e4666fdca00422343b9f375d4470b6b711a72eddb072a4597f5"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "663a3f2f25983b9a40a941bce124de46129313b3c632cbff6bb9858976106b44"
+metafile = true
+
+[[files]]
 file = "mods/personality!.pw.toml"
 hash = "275ea29317e5fe3b408083bc77e6b1ce0970bc837c3720a4a1e8df0725a08392"
 metafile = true
@@ -728,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "9fee2cb8c4e676d88013edf92fd00f3f3c0dfd8b4bd11ec515d389f4801647d4"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "520057f00bb02d1864375955e6b4d82929cec46eec6b58272aa6bb8c4eab7e72"
 metafile = true
 
 [[files]]
@@ -1128,4 +1138,64 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d24a314558cf5a7f38417e99d558d90b88264ddff17c9d8f825d0b743aa55bf1"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-better-jungle-temples.pw.toml"
+hash = "7a136a3dc2d2a742146dfeae6485a2846354ea2f8fd4a15280f774dda9e30d3f"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "31be6fb1517d90150e595dd46ed4168dc362af8efe9e1a6b2ee1c4cb0a6d6e29"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-better-strongholds-compat.pw.toml"
+hash = "31357651d409b1b9906dd5db07e1bffdbdb496b98aa68234e37885ea08f71590"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "9b6ec6ed49f137aa14075bb049a41b1148ae82efb89313c5d235ce5e51ac5d32"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "815455029d3820691d224abe958f7162dae8b5d806c8f1cfcb1a6bf140d6a78b"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-immersive-engineering-compat.pw.toml"
+hash = "d6947a907b4ad937b182bc3f8481d5d91ceada00f987dfbbd92284e82052bc2d"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-more-villagers-compat.pw.toml"
+hash = "44638b9d62dcc284fecb25fdb2f533697d0fd32253b01633c9a3c5481f7ee9fe"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-oh-the-biomes-youll-go-compat.pw.toml"
+hash = "269b33b8d962e01fd3da9f499554475530301df6f93ba566edd95e2ef1746249"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-savage--ravage-compat.pw.toml"
+hash = "a88c7ae0fee1b0eee884da1370a4ddf8ab9f1aa7b40255d104cbdd597f6c2d6d"
+metafile = true
+
+[[files]]
+file = "paxi/repurposed-structures-yungs-better-nether-fortress-compat.pw.toml"
+hash = "45e53d1e37ff906dfbaabd51d06e1cc7ca27d3cb8dc5465b52e371b8093f2ccd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-cybers-better-copper.pw.toml"
+hash = "8dd8a215ceaf6008a170ee4e81b7c0374291a1033334dbf8f5e3a455ff88abb6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-wares-compat.pw.toml"
+hash = "789e2e144b98295d0feac4e9b6701940e71d8cfdd2ca48bf91bd5ebd6998f9e5"
 metafile = true

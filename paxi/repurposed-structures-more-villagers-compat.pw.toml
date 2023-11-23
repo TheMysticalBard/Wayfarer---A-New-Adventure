@@ -1,0 +1,13 @@
+name = "Repurposed Structures - More Villagers Compat"
+filename = "Repurposed_Structures-More_Villagers_v8.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJDguz4I/versions/wMZkcjUn/Repurposed_Structures-More_Villagers_v8.zip"
+hash-format = "sha1"
+hash = "299a5297e8aabba067a7befa3d92498d3da2ae3d"
+
+[update]
+[update.modrinth]
+mod-id = "dJDguz4I"
+version = "wMZkcjUn"

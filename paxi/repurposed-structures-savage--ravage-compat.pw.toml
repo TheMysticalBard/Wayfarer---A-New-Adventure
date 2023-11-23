@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Savage & Ravage Compat"
+filename = "Repurposed_Structures-Savage_And_Ravage_v6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sDzgzRzB/versions/lCa3bQas/Repurposed_Structures-Savage_And_Ravage_v6.zip"
+hash-format = "sha1"
+hash = "f3296154f8698532b8460829ca3ddd1565e6fe2a"
+
+[update]
+[update.modrinth]
+mod-id = "sDzgzRzB"
+version = "lCa3bQas"

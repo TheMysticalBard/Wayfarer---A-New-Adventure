@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Immersive Engineering Compat"
+filename = "Repurposed_Structures-Immersive_Engineering_v6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Grn2JrYW/versions/dx278LvM/Repurposed_Structures-Immersive_Engineering_v6.zip"
+hash-format = "sha1"
+hash = "d5404e96ee50add9abfe3b2c1ffef6443181f278"
+
+[update]
+[update.modrinth]
+mod-id = "Grn2JrYW"
+version = "dx278LvM"
