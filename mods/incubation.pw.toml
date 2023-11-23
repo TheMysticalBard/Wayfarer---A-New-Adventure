@@ -1,0 +1,13 @@
+name = "Incubation"
+filename = "incubation-1.19.2-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4Xrv60A/versions/xNXbdthU/incubation-1.19.2-3.0.1.jar"
+hash-format = "sha1"
+hash = "dc98d35f181ab6d574666310e9bd6687b3f84bf5"
+
+[update]
+[update.modrinth]
+mod-id = "A4Xrv60A"
+version = "xNXbdthU"

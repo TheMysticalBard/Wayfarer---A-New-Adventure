@@ -1,0 +1,13 @@
+name = "WMITAF"
+filename = "wmitaf-forge-mc1.19-3.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mk6pNnsq/versions/KIwvVQic/wmitaf-forge-mc1.19-3.1.1.jar"
+hash-format = "sha1"
+hash = "5f621c4ba07432d373ccea8a839e1ed72563cad2"
+
+[update]
+[update.modrinth]
+mod-id = "mk6pNnsq"
+version = "KIwvVQic"

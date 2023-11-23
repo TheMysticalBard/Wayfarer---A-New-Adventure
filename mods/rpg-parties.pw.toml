@@ -1,0 +1,13 @@
+name = "RPG Parties"
+filename = "mmoparties-2.4.4.1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uN9Miy4p/versions/blEL5mvE/mmoparties-2.4.4.1.19.2.jar"
+hash-format = "sha1"
+hash = "147818536d41faaf394014f717d6c266cb2a7895"
+
+[update]
+[update.modrinth]
+mod-id = "uN9Miy4p"
+version = "blEL5mvE"

@@ -1,0 +1,13 @@
+name = "KubeJS Additions"
+filename = "kubejsadditions-forge-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZemjxZb/versions/YnBeipmE/kubejsadditions-forge-3.2.1.jar"
+hash-format = "sha1"
+hash = "240470e7551464c40ae0a69ae327c378b52441f1"
+
+[update]
+[update.modrinth]
+mod-id = "BZemjxZb"
+version = "YnBeipmE"

@@ -1,0 +1,13 @@
+name = "The Aether Sawmill Compat (Woodworks/Aether Addon)"
+filename = "aether-sawmill-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1hfq4BCA/versions/CkUMymPd/aether-sawmill-compat-1.0.jar"
+hash-format = "sha1"
+hash = "53333dcee9e6c97e99505d3ecef5aca1a05d83ad"
+
+[update]
+[update.modrinth]
+mod-id = "1hfq4BCA"
+version = "CkUMymPd"

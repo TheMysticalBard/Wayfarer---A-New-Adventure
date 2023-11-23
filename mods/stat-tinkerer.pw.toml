@@ -1,0 +1,13 @@
+name = "Stat Tinkerer"
+filename = "statskeeper-forge-1.19.2-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UAfajCcY/versions/p1cRGoKO/statskeeper-forge-1.19.2-8.0.1.jar"
+hash-format = "sha1"
+hash = "3bdd0630fd31fdf36c7a5575ac2e84853b24fec1"
+
+[update]
+[update.modrinth]
+mod-id = "UAfajCcY"
+version = "p1cRGoKO"

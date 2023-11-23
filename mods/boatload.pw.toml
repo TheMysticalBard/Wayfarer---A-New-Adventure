@@ -1,0 +1,13 @@
+name = "Boatload"
+filename = "boatload-1.19.2-4.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hevpK888/versions/DDO9WQES/boatload-1.19.2-4.2.2.jar"
+hash-format = "sha1"
+hash = "775f53660f4fe12c5e5bd815ef6be777c035badc"
+
+[update]
+[update.modrinth]
+mod-id = "hevpK888"
+version = "DDO9WQES"
