@@ -45,10 +45,6 @@ file = "config/abnormals_delight-common.toml"
 hash = "135425bd7d8259fe1a42a2fce422b0ad25946ca8ba8bb399dd03527b76ea484f"
 
 [[files]]
-file = "config/ad_astra.toml"
-hash = "429c4ffcf02f8afb6148c9d52715e1c956812dab2cd2d9eb9b52587881d90d42"
-
-[[files]]
 file = "config/advancementplaques-common.toml"
 hash = "328e19012802308709191b9bdca49d48eecf5da2a1c9cab03fe0ea6768c74c82"
 
@@ -1653,10 +1649,6 @@ file = "config/l2library-client.toml"
 hash = "f1990867e139ca56534a75bf2c04d3185bca622957c607979e9f4715e0f73525"
 
 [[files]]
-file = "config/leavemybarsalone-client.toml"
-hash = "e008a7be1fa22df29167d45460d10cd622b59fcde51b347a41992e4e7d9a3699"
-
-[[files]]
 file = "config/leavesbegone-server.toml"
 hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
 
@@ -2257,30 +2249,6 @@ file = "config/woodworks-common.toml"
 hash = "607a8880f3c5fa9e0d0e5eb33bf3126f8e7f89fc8bb520f476cf07ff24f6ad12"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "7e81c8bf116a7830c3e9d2915f66f87f9356e779a13c801a73cb263d00df2f5f"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "5b51f4e19c94382fdc1bd76fe7e250f1f83fc7e07ec9bbb299f7cf95397add95"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "531c266d17a9a91ed719fc198d5bb7f3009f58498a12fa018bd6569575456729"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "b1b0631ef395936400e97f4d3b0b03adcf45dff9e80b69d9b31a4838673eff7d"
 metafile = true
@@ -2873,11 +2841,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "a613075913b8af718eeac3eff90ad9fa5fed9d91558043ecfa2bf201bfe175d1"
-metafile = true
-
-[[files]]
-file = "mods/leave-my-bars-alone.pw.toml"
-hash = "108625453a9b1c63249b00d125df05844b72391f1cd85c9bf75d9c470bb733d9"
 metafile = true
 
 [[files]]
