@@ -1073,6 +1073,10 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
+file = "config/byg/backups/last_working_configs_backup.zip"
+hash = "9523ad820fed9504e5842bb22da33b3ce577ad81f99e2663c248b41e6d56ac2f"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "8ef0cd2537acf9187204f7d9cbf94464d99eb3915cc92a293c3d3b64633c22f5"
 
@@ -1254,7 +1258,7 @@ hash = "e254fd10199336dd0e0c1c3f20a8daa1fdf9ca026b02dd9c0064ae1f058b9393"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "bc38d77fed86103d0818624ce811ad7069994f4490daff77f1ffeded5ed29121"
+hash = "efa2e27452c9e88898fc65746b11e29078df6fdc40e46aa8951a5a1affa991d0"
 
 [[files]]
 file = "config/coldsweat/entity_settings.toml"
@@ -1262,15 +1266,15 @@ hash = "212555f2a9ebf888d0100112ce43d418d581ea2bf0a606a5d64e264a33f16e33"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "1f1461d0b45cd98141c0982c4798e64d1b31fe79d541fcbf7a9729523dce9c63"
+hash = "dad5fc163065f295a86151b3e692217c158edb44f9fff5ed28546938332b1b38"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "f0bff84987d53fa54123f0ee64c80cff6050b16c57cdde5d78dea17b31dd6aea"
+hash = "e40c90d1c8d4e0b752e0b538643fedc825481e24a9c51053d143193c39f2c63b"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "3ab848c8064b64b200ace26c6c1d5e0ae897008de7fb1eb5c5e23c9deb17f296"
+hash = "9e9275846613dd68a6cd8f35a95b850fd875110fe5186598d1d4c5025626050f"
 
 [[files]]
 file = "config/collective.json5"
@@ -1490,7 +1494,7 @@ hash = "965f3f8c6b6cc28d7cb4c35cb5f9c70388a38b67e162adb605707a873e175637"
 
 [[files]]
 file = "config/highlighter-common.toml"
-hash = "dd8fae6111bde646d67671d458d70f91147de6506acb74360d844123d5911579"
+hash = "12b0a6cb4bbdbd742dd481e288f3be1415ab73bd79e0f66c5ec97dc730ae3d91"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1589,8 +1593,32 @@ file = "config/infernalexp/spawnrates/warpbeetle_spawns.json"
 hash = "3cf16b48a6b2bb31a90fa2ac2f83cbbbc28d86e6ca55d7b39e2ebff2489e0e31"
 
 [[files]]
+file = "config/inventoryessentials-common.toml"
+hash = "3eec1918f17ac78d98317ebf281271d7fb0db98099fe0dd029294d06bacf22e7"
+
+[[files]]
 file = "config/irons_rpg_tweaks-client.toml"
 hash = "1d2ce9d372b7b337bd4f85a42298b24d608f44c62dff0a55e6bb144287a92077"
+
+[[files]]
+file = "config/jade/hide-blocks-1902.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities-1902.json"
+hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8a59a7151051d7b45f134fd4b1a9f10bc7957cd90c09cd126b4f70a83e5cc994"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "29b405535d6463b062bb771565629167580ef25e014f0058d7e26a7e21826a45"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "736831165effe9891e7013ab946a9f43530c85390f4018eee2250787676e174c"
 
 [[files]]
 file = "config/jeed-client.toml"
@@ -1645,6 +1673,18 @@ file = "config/mmoparties-common.toml"
 hash = "d9594aee257eb93ed5cc8513d08db044c4237d71974324eae4fe546b07b9dd3f"
 
 [[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "f9dbbaa5a505877bb0f229d6c4f50da63d06fe89639d4213aa591d855db09a9f"
+
+[[files]]
+file = "config/modonomicon-client.toml"
+hash = "c13b959758ec6d79366559df00e31ae46a468862bef4f2abee8a6730d43eb6c9"
+
+[[files]]
 file = "config/more_immersive_wires-common.toml"
 hash = "03148d3c7a6cc03d91dd39ea3c802c38e4500e58e5a7f55f4dab95ff14fba70b"
 
@@ -1681,12 +1721,24 @@ file = "config/numismaticoverhaul-common.toml"
 hash = "4801c4fd81f11ba52b1c367ab0ea2e1e94158e282a384f5fd88a8c0e4ddb9599"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "1e0a8164cba026ea9120bb2aaf674f0274a9a6f99224cddd2a5618a970e1fa3b"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
 [[files]]
 file = "config/paucal-common.toml"
 hash = "4106bec9b9a09c6f0cc5056d1a0e8de653d2abde26e4b7f83ee5b7b88243a216"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/personality-client.toml"
@@ -1830,7 +1882,7 @@ hash = "0e4777757508adbb9c4fabac23b0a272745f171a109fc5b9750d01b94e5cf25a"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "2f34cb2ce393f69fbf2083b76b9bbb33948b992797971ec516a236e7796f38f7"
+hash = "c3c9f64396f3781bcd7b9421d4a08fa6d3b23957545a8bcae6f6af4f89b426ba"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1955,6 +2007,22 @@ hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
 [[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "6f42a5660d97fce327a89d36889cdcc079e1017f6cc612b1a2fa079d52d35fba"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "406609d5eab09ea13dd5f61f2ba58d83fecda5ce31cd59efeab923cd11452dfd"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "8cd87319929e7d0f1e9d7e4a6a81f01d1156602ed86fff92c39ec496ffdcdeea"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "a318226607c147edf32fa2eecb25054f742646b273c4f77bc10e75b2054a4ce2"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "b30022fe747af5b629b8fa148f3ef354e9bc3e72c7e1c46cd292275eb6658801"
 
 [[files]]
 file = "config/spelunkery-client.toml"
@@ -2091,6 +2159,10 @@ hash = "6d3ba3e80492e007d9b685b8a81b34c973bf85938cb8bb3d4127eb548f50ce8e"
 [[files]]
 file = "config/toomanyglyphs/glyph_reverse_direction.toml"
 hash = "1706d6b740d204580186ad1ee8211e8d8d95e5b42bc829d25af4b1abd157b529"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "f5dd21c332e0ce0715a0e1cc5fca8967bf01eac5255243ddec30a7e632b94ad1"
 
 [[files]]
 file = "config/travelerstitles-forge-1_19.toml"

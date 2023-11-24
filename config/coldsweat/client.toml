@@ -39,7 +39,7 @@
 	"Y Offset" = 0
 
 ["UI Options"]
-	"Custom hotbar layout" = true
+	"Custom hotbar layout" = false
 	#Controls whether the temperature icon shakes when in critical condition
 	"Icon Bobbing" = true
 
