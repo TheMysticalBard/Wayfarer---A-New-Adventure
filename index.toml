@@ -1489,10 +1489,6 @@ file = "config/hammerlib/recipes/modded/minecraft.json"
 hash = "965f3f8c6b6cc28d7cb4c35cb5f9c70388a38b67e162adb605707a873e175637"
 
 [[files]]
-file = "config/healthoverlay.toml"
-hash = "7c91e7d6ae2637279934ffde245964f1549c017d77313c4ace452995f7897591"
-
-[[files]]
 file = "config/highlighter-common.toml"
 hash = "dd8fae6111bde646d67671d458d70f91147de6506acb74360d844123d5911579"
 
@@ -1601,38 +1597,6 @@ file = "config/jeed-client.toml"
 hash = "ba66d3903e6e26124c1e8f1f5c841ec73778e3d844113de781f496b197065e20"
 
 [[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "c9c457399dbc4159ac98281ed427dc036b68f366177a670b7ffebca1740a1b0c"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "ecfe2f601d37628ffd5e8861b92f01f4551b4f3ef22fbfe1ce1b4e0900ebfdcf"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "c513c22b5acbf79ca29858ba472bba4a6f969df405c61b37b7ee6554358d88ea"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "16799b0f31847d9ee8c24973144efdb3fa691e01490ad81ad52661b87b06ed16"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
 
@@ -1738,7 +1702,7 @@ hash = "ed9f776e61eac8407098bcda9c6dcd090c23694e8b5d50d93e766a0053cd2006"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
+hash = "ad75f8f6c9b97ee5c7b918f1c2674d3b5000d546bd5ee6100562be0df4dd4010"
 
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
@@ -2129,26 +2093,6 @@ file = "config/toomanyglyphs/glyph_reverse_direction.toml"
 hash = "1706d6b740d204580186ad1ee8211e8d8d95e5b42bc829d25af4b1abd157b529"
 
 [[files]]
-file = "config/toughasnails/client.toml"
-hash = "a64ae31d9094f721da8983d68b89ef46f0b69a863d45937d1c67a8490be9cf3a"
-
-[[files]]
-file = "config/toughasnails/temperature.toml"
-hash = "d3e03836bef81c7c95d65f29a317ebffe577b59859f66d282c89c11af382b261"
-
-[[files]]
-file = "config/toughasnails/thirst.toml"
-hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
-
-[[files]]
-file = "config/toughastweaked-common.toml"
-hash = "ef828c12d148ec102cb31afcadb5612e8d94ac2bf1193d4aa6a739599d9bdd8f"
-
-[[files]]
-file = "config/toughnessbar-client.toml"
-hash = "9beef4d2625dd0cc2405211763a5b4a3065b78cd0c55347320b03d0e2c1608a3"
-
-[[files]]
 file = "config/travelerstitles-forge-1_19.toml"
 hash = "4f5f7225d9a4a35d8ced5a280be465bafc3d4f7adf64a7bdd41f0392b197e2a4"
 
@@ -2321,11 +2265,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
-metafile = true
-
-[[files]]
-file = "mods/armor-toughness-bar.pw.toml"
-hash = "212beab22edd01e477fe14083c1c320da02563782a47865163109896d346abad"
 metafile = true
 
 [[files]]
@@ -2719,11 +2658,6 @@ hash = "bfd6eeeaa60337046119d0da08512ab7a97929ecceb01a1476acb6bc3c5279af"
 metafile = true
 
 [[files]]
-file = "mods/health-overlay.pw.toml"
-hash = "13924461fa0cf938498d54b714262c1c64d9d6a9de21cb6f29ba5b6be43096f3"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
@@ -2936,6 +2870,11 @@ metafile = true
 [[files]]
 file = "mods/numismatic-overhaul-reforged.pw.toml"
 hash = "f28748c468d4d8dd6ad172e69528451bdd6a7d759b5dd7b956a24c6bae54df4a"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "005c5f35e6ba4225d6583fbc5aba6c4ba417f0dda9fe775802e25531ae6642d2"
 metafile = true
 
 [[files]]
