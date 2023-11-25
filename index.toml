@@ -3342,11 +3342,6 @@ hash = "ad2ffafd347ee12be77e0afaa35a9d89b1b66835e816f6307d5f109a2f5c432a"
 metafile = true
 
 [[files]]
-file = "mods/wmitaf.pw.toml"
-hash = "cf95f33f0cf832369eca1abaedaa4b363c335a6f759fec438bd6fb606f11cc8a"
-metafile = true
-
-[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "fb6d0e6f66144d4ef5d4ad311c865266feaf3b212362550e9f3982833236ba07"
 metafile = true
