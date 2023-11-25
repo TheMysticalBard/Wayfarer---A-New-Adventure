@@ -1625,14 +1625,6 @@ file = "config/jeed-client.toml"
 hash = "ba66d3903e6e26124c1e8f1f5c841ec73778e3d844113de781f496b197065e20"
 
 [[files]]
-file = "config/jeresources-common.toml"
-hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
-
-[[files]]
-file = "config/jeresources.toml"
-hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
-
-[[files]]
 file = "config/kiwi-client.toml"
 hash = "29deaafaed6edd2e206e356464b8257a3aec9ac840e1ac239b9d72a7c1a74752"
 
@@ -1927,26 +1919,6 @@ hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
 [[files]]
 file = "config/rottencreatures-common.toml"
 hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
-
-[[files]]
-file = "config/roughlyenoughitems/changelog.txt"
-hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "cdc3a6cb0d35ee8d241782e165f1a6b87f9518a4482fb6b563b308658285dade"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "6c95521ba910a7394aba9987383818dd46d35ad2285ced14fe04d4ec04d73033"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "b59be3fe8d1a634ca5c69f01b0f77a20def94222fb088cb36d4054c781e8128e"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "c6a6c06220bd8e8d1830cbd2c484211ae6e091cf2acafe88a822a9dfc9b56328"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
@@ -2625,6 +2597,11 @@ hash = "b37412171124265e13066099e57c9442bd61f471e594c6878a2d788df6a8927c"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "c982023c72ae4d703e72faef301b2d2b6f234de4f53255aae1f0f2bb7ece72fc"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "87c292d800300032816b0478435b1361752f19c401af9084d87c97f17fe25267"
 metafile = true
@@ -2805,8 +2782,23 @@ hash = "cca4b243ff01543c5e7f2b943bc69e969ca804d1212c53d29974c2a2abd70eed"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f22c5baa35be596f72485c0011c80597d3f2e06492574973912dee5e4aa54cac"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "1e4ffbb45a1fe86c795797d191ddc7888fb36e7974a7b3e364b4552182291992"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "a0787cf8f59bb3ecde0c73f683039fb3dd9db24d8f64fffc74851427b716631f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
 metafile = true
 
 [[files]]
@@ -2847,11 +2839,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-immersive-engineering.pw.toml"
 hash = "e8ebb889b67945e8f1d4aa1f3a226b712b74bc0ae281b7fc3db6dc1b8d2dd7a4"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-rei-runtime.pw.toml"
-hash = "6e2270442783ea1a26b381e79b9f939e001277ee7432b886af9810b437cffd18"
 metafile = true
 
 [[files]]
@@ -3050,11 +3037,6 @@ hash = "d24de70bbcd2460ebdd4ea16b88f7aac305f7f6fe3b306e00a8c9f79c6c2c611"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "749f74f7fed1ca497ab4d42c3621a35bf72bba9eaaf44ddd0e493922a8550af8"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "1e8b3663f7e3a52e00b4fe22eb1b2b2f8bc2558484c0083c2bdde5e58118dd61"
 metafile = true
@@ -3087,16 +3069,6 @@ metafile = true
 [[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "f110cdbd6313030e11428e14e300f72ca6fa8e0114fcb64066fbcc5f15536c61"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "d1b95a56833c121e5ea6ef90e118ee55499b8909a5cbe42f14e16bbbcf1b8648"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "f3a60be69dcc6f70951ca1c8750fc473a4374adef53926a557fca2c17522689d"
 metafile = true
 
 [[files]]
