@@ -3,3 +3,9 @@
 
 # Exclude README
 /README.md
+
+# Exclude probeJS mappings
+kubejs/probe
+
+# Exclude kubejs README
+kubejs/README.txt

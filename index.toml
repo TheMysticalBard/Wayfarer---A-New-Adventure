@@ -2237,6 +2237,46 @@ file = "config/woodworks-common.toml"
 hash = "607a8880f3c5fa9e0d0e5eb33bf3126f8e7f89fc8bb520f476cf07ff24f6ad12"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "32b2aa28a46549b80b0f1a7c08997c63003ca55fedc6721860f6d6c6f3222ddb"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "8b3fb9a71c8e020c761a921ce2b87ad7500fee735c55560e599d0e1701d65365"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "b1b0631ef395936400e97f4d3b0b03adcf45dff9e80b69d9b31a4838673eff7d"
 metafile = true
