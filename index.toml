@@ -2433,7 +2433,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "3ea4fd452155db870bead38602e177e0353511b2d783b4947b9df5b4c4cca14a"
+hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
 metafile = true
 
 [[files]]
@@ -2468,12 +2468,12 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "afe7a0b2d40a1e0eec0aec9cd8cb5eb40446fd865fbe0c026e350c6bb63f1fec"
+hash = "f39809f85de63ffe9070b45c45cebc9ccfa67a0fb455a9838d8358d6fcc50fae"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a70312f0489f68cd87b03bd6dfc0e6cad1b33b57c49a6e1040506e7317f954c9"
+hash = "f065f8d023815a013aeda771bdcd09145bc6a56b4edaadd44e7957eb67ee248e"
 metafile = true
 
 [[files]]
@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b37412171124265e13066099e57c9442bd61f471e594c6878a2d788df6a8927c"
+hash = "3286e3fd475b8e0802fbee95f8a849345ab55057fba08121c969df14b51f1e41"
 metafile = true
 
 [[files]]
@@ -2693,7 +2693,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "355c60f8b0dfbe44b94d9d4b6da49b38f759a38f87b55601239530ac8057c335"
+hash = "1727287afb0a935aa47857360bebfcd8af49e351544bb34c9129d1dc60de35bf"
 metafile = true
 
 [[files]]
