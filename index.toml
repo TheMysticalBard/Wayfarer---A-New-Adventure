@@ -2233,6 +2233,82 @@ file = "config/woodworks-common.toml"
 hash = "607a8880f3c5fa9e0d0e5eb33bf3126f8e7f89fc8bb520f476cf07ff24f6ad12"
 
 [[files]]
+file = "defaultconfigs/aether-server.toml"
+hash = "082cc6347e006de81b19e82b1b97eda0fdeb62e1901351b92e3a2e86db77e2ba"
+
+[[files]]
+file = "defaultconfigs/cofh_core-server.toml"
+hash = "936cc6909e95faefe50b6aa94199e3c988fa027688f7860ac6040bcd0dcdf735"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "60b98048c8c736b5a4f965ef0416fc9ba372bf0a2869e1d4dca927f8f67f8f8f"
+
+[[files]]
+file = "defaultconfigs/create_power_loader-server.toml"
+hash = "5aafa2809510558094477e8fb41e514bf4b98a454bfcc35684197050543558ef"
+
+[[files]]
+file = "defaultconfigs/createdieselgenerators-server.toml"
+hash = "c31837ac1a4fba02e535c7f95f102c9a615380290f9b4ab0be78b9bf8a272794"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
+
+[[files]]
+file = "defaultconfigs/engineersdecor-server.toml"
+hash = "b82cd19d3848e113751ffc922d4528a1ea7a0224fcde8cfd1cebb5235982152f"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "b25b0f5d49e3707fd282635c6bc2fbfd29af75a9b996d564e3a5013efdbd954c"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "f2997b45d855a3f014cfb9960a85495d1828d3b36583d3459b949f818843ff6a"
+
+[[files]]
+file = "defaultconfigs/immersivepetroleum-server.toml"
+hash = "9e4cd3e7fdd628d948f8c70c2fb43a36cc6df29e10d6cc111c37441c7a4d7584"
+
+[[files]]
+file = "defaultconfigs/irons_rpg_tweaks-server.toml"
+hash = "15a6c412e91019ffb78a25889370e05ae685c1d55e920bbffa02e78e74e6956f"
+
+[[files]]
+file = "defaultconfigs/irons_spellbooks-server.toml"
+hash = "a024e43d4e3c22efcd77028e84f90171de486341fda1769f588cf4312326fa69"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
+
+[[files]]
+file = "defaultconfigs/more_immersive_wires-server.toml"
+hash = "fada89be0a2a28524430d6a58475566657b16af92707b8ffb6ffa1c0b0870b2d"
+
+[[files]]
+file = "defaultconfigs/railways-server.toml"
+hash = "fde5609a0097de79650f6e60b7a024b279dd8c318dd21839c4d84260f2ae58a0"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "f4954f3e2563bdd84923dcd24e6b1eb7717a560b93e9cf29fd09a3d3b8feef68"
+
+[[files]]
+file = "defaultconfigs/solapplepie-server.toml"
+hash = "4a054d7823c6ac09a09ffd063577c5501065fd8aed18de4b7a3f65971e31f495"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "4e242d1a4687c85702f60b061522caf3cf582de9a67d9710122f7b62afb6720a"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "7b01264bb6a48441e004b416f7abe78691bcbb2156fa1f7deb2405ab98788a2e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -2583,6 +2659,11 @@ hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+hash = "e427c13317e4be2a5e404a732282c3df15d1cd3c2db37a8e56b5026cbb98ab70"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
@@ -2605,6 +2686,46 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "904347e864a9e17dfa40d70fd4a3d10a04ca797a7bdae9cd0db82638de4a26e3"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "c3907eab7e08d7db198d2e5c3c7cd806ff406bc34f03af5b0f1dc2fdfac61a27"
+metafile = true
+
+[[files]]
+file = "mods/ctov-byg-compat.pw.toml"
+hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
+file = "mods/ctov-immersive-engineering-compat.pw.toml"
+hash = "0c4bb419b90038d165ca1264570f4e243a0a5a7dabfc8b433f3f816fe1e2a246"
+metafile = true
+
+[[files]]
+file = "mods/ctov-irons-spells-n-spellbooks-compat.pw.toml"
+hash = "d87155118199bba53181b3f293aa1274e1b47212ea395125becc171113c0129a"
+metafile = true
+
+[[files]]
+file = "mods/ctov-more-villagers-compat.pw.toml"
+hash = "4b149afe0b402bfb013e5cd688f8b92b50f5085a44a598d9144e29f4be4a7b63"
+metafile = true
+
+[[files]]
+file = "mods/ctov-savage-and-ravage-compat.pw.toml"
+hash = "7a30a3215c89fe6102f11cb94d2d4eecca8f32ccb76ee7b4fc840c7ae445f5ee"
+metafile = true
+
+[[files]]
+file = "mods/ctov-wares-compat.pw.toml"
+hash = "9bd94ebfa9c1ee04af2207bbd6435f9260db903ff3336fa77bc7d0444de40ecc"
 metafile = true
 
 [[files]]
@@ -2933,6 +3054,11 @@ hash = "61da9408e9e0dfd7e6e8aeeafa90f4d8e56c95f02a142b1ccbee3abe7cc2cf5e"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "e3d940c2d272976a52cfdffb7091c2c114a0df9ef925d93ed5cc6dac2f351732"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "87072d2e702e56839ad92a0c8083bea6eeefee5b11da3c6b8abc2ebf437cf16c"
 metafile = true
@@ -3158,6 +3284,11 @@ hash = "b9f20e831a6ed256ae4dc7c3d411e6b38905835e1d58ba477fd37e4bbe20a519"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "c5034f3d9fd2f1dcac1319fc4a4a397b3154f4ed45e227b29362be5ce7fbd0d9"
+metafile = true
+
+[[files]]
 file = "mods/separated-leaves.pw.toml"
 hash = "ad4f075f85bdc9e0bed565c303e10aa07c97ecab4934e6dce1e4c1981d800846"
 metafile = true
@@ -3165,11 +3296,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
-metafile = true
-
-[[files]]
-file = "mods/simple-maps-fork.pw.toml"
-hash = "9b7b7edf59fdf8fecdcb43834c4beeb173a6752e43feef9d76017016d1fd3954"
 metafile = true
 
 [[files]]

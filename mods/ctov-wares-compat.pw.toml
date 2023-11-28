@@ -1,0 +1,13 @@
+name = "CTOV - Wares compat"
+filename = "ctov-wares-compat-1.0.a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ikXYiASk/versions/xKo2GMHk/ctov-wares-compat-1.0.a.jar"
+hash-format = "sha1"
+hash = "637597f46699b9567830848da0e06cef9adbe34e"
+
+[update]
+[update.modrinth]
+mod-id = "ikXYiASk"
+version = "xKo2GMHk"
