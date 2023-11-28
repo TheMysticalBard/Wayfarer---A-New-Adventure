@@ -1074,7 +1074,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "9523ad820fed9504e5842bb22da33b3ce577ad81f99e2663c248b41e6d56ac2f"
+hash = "99070912120de2935cbe26936dc19b8513c509f986ea0d5090f5b08b193f8f0a"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -2467,6 +2467,11 @@ hash = "772deacd3a8a2fb7b5936d2a0f3384740dfe19a238878e3cf46130894d2324dd"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "1d51fa0d3f0ca14c66f425643120f147d5eec29d48c5ac595351db20cdf9ee75"
+metafile = true
+
+[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "ba7ef2c37623977ae5800fb00d6afb482a28efc4fb0daf2abce260899a47b85d"
 metafile = true
@@ -2572,6 +2577,11 @@ hash = "086cb8c607b224ea487b51008b92ec8e2a021397a3968e28a617ef0c0db320a7"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "b6158cb0229a2fc6d5ecd0bc2ca50fc570529681b0428ddf5b7a23ef40395ba7"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
@@ -2654,6 +2664,11 @@ metafile = true
 [[files]]
 file = "mods/engineers-delight.pw.toml"
 hash = "a7289deb7104530cf92c0cd228fb00ad5d156ec2ba9d857af580bfb538ea6744"
+metafile = true
+
+[[files]]
+file = "mods/engineersdecor.pw.toml"
+hash = "563b375fdc125b0c3827cd5666dd4143b777bbc91545050a8a2948fc2442fd11"
 metafile = true
 
 [[files]]
@@ -2807,6 +2822,11 @@ hash = "55018175ee63da08cddd4ebc6f9e6929895505e00eaf7c07be97d0e76fa21db0"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "5a539a87217d289357455436e6d86ba2846a449b9f520a7443bd9669fd6df08a"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fabf63f20bc8216e06d4769e34339509913f31e39598a72e8dfc5f9b95cb75e1"
 metafile = true
@@ -2819,6 +2839,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "cca4b243ff01543c5e7f2b943bc69e969ca804d1212c53d29974c2a2abd70eed"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "6e28e25ab8ba97cd3b30fd3bcf4ae8d6dd2b50b2f0a97d994c914227eb743f35"
 metafile = true
 
 [[files]]
@@ -2902,6 +2927,11 @@ hash = "a2961c6134993521eda1a60ca4de659d68ba898d774b42b3c992311999f41424"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9ecd38478aa39dcf8085b0082cc604178444dc65238d8bd1906a5cbc889b1dfe"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "61da9408e9e0dfd7e6e8aeeafa90f4d8e56c95f02a142b1ccbee3abe7cc2cf5e"
 metafile = true
@@ -2909,6 +2939,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "87072d2e702e56839ad92a0c8083bea6eeefee5b11da3c6b8abc2ebf437cf16c"
+metafile = true
+
+[[files]]
+file = "mods/mega.pw.toml"
+hash = "62a2f96639c140567d526fd85c4b0ed1df3af0dce003015c58e432cf3a1b15f7"
 metafile = true
 
 [[files]]
@@ -3024,6 +3059,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
 
 [[files]]
@@ -3254,6 +3294,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "6d0cc24dc10be439bfc71d1cdee43e46230bfc82bfb840b1d238995af5e7d910"
+metafile = true
+
+[[files]]
+file = "mods/thermal-endergy.pw.toml"
+hash = "303d68395d041a0db564d4f79779c7b4c4a7ff6987c79cc1ed0b720fcd2531f4"
 metafile = true
 
 [[files]]
