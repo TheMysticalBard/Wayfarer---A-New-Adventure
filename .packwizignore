@@ -9,3 +9,6 @@ kubejs/probe
 
 # Exclude kubejs README
 kubejs/README.txt
+
+# Exclude byg backups
+config/byg/backups

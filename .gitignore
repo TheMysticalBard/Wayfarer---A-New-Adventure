@@ -6,3 +6,6 @@
 
 # Exclude probeJS mappings
 kubejs/probe
+
+# Exclude byg backups
+config/byg/backups
