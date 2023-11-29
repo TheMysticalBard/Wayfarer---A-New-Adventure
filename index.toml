@@ -2333,6 +2333,10 @@ file = "kubejs/config/common.properties"
 hash = "8b3fb9a71c8e020c761a921ce2b87ad7500fee735c55560e599d0e1701d65365"
 
 [[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "cd2d38fd686df435e06755fa2ef6d852cbd2a0ece27475c589c18c236b131b1e"
+
+[[files]]
 file = "kubejs/config/probejs.json"
 hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
 

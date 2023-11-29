@@ -1,0 +1,6 @@
+autoJump:false
+enableVsync:false
+fullscreen:true
+guiScale:3
+tutorialStep:none
+soundCategory_master:0.2
