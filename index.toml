@@ -26,7 +26,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/SeasonHUD-client.toml"
-hash = "ebe229f5db65873c90fcfebb97ab192ed612e04e777115acab0e501dd0d5331d"
+hash = "0d0cf65982e367e921550354fabccef06ff10d9bef11aa5e7f35f0ea743746d3"
 
 [[files]]
 file = "config/YungsExtras/README.txt"
@@ -930,7 +930,7 @@ hash = "9f394f30e17b71de1cbaa929863e03b7e87d4a9c4be2c58f07b2cb4227ebff65"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "e6fb16f6f62db8d3eb542595bfb4b4ebe37f0680c47cbd9573432dcda70be561"
+hash = "05d2c59268e4a0e6d3fef6bbf92dc9f40bdd3ba663db985ca5a1c84a7f344e8b"
 
 [[files]]
 file = "config/berry_good-common.toml"
@@ -1230,7 +1230,7 @@ hash = "0ed4e050543b130b0f77b45b1bd07b65d9a6fb5146ec013a6857c6502228d591"
 
 [[files]]
 file = "config/chunksending.json"
-hash = "4bb53cce5a363b4173052e66d609e2013b53c7a662de115e5ca59143fd3eab1b"
+hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
 
 [[files]]
 file = "config/citadel-common.toml"
@@ -1254,7 +1254,7 @@ hash = "e254fd10199336dd0e0c1c3f20a8daa1fdf9ca026b02dd9c0064ae1f058b9393"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "efa2e27452c9e88898fc65746b11e29078df6fdc40e46aa8951a5a1affa991d0"
+hash = "ff7704805c2a22b648a153a46362c782c9aecc0915edfdfae304c6b57ba30fdb"
 
 [[files]]
 file = "config/coldsweat/entity_settings.toml"
@@ -1262,15 +1262,15 @@ hash = "212555f2a9ebf888d0100112ce43d418d581ea2bf0a606a5d64e264a33f16e33"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "dad5fc163065f295a86151b3e692217c158edb44f9fff5ed28546938332b1b38"
+hash = "6358a017af83827e5a3a381da4b5c7e8ca6afd61e5e2a6577748f54adc2604f5"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "e40c90d1c8d4e0b752e0b538643fedc825481e24a9c51053d143193c39f2c63b"
+hash = "e0e32fd57175e64a3fe696f86a08f4d788c416e6ce33381cbfb8d3fcb9c545c6"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "9e9275846613dd68a6cd8f35a95b850fd875110fe5186598d1d4c5025626050f"
+hash = "418533e04074ab56822c4a46fb69f6b7ea9c38443115238871f6880d94bb3467"
 
 [[files]]
 file = "config/collective.json5"
@@ -1345,6 +1345,14 @@ file = "config/deep_aether-common.toml"
 hash = "21e21543efc5c86f2f7d5ec8122488007f64b481e1ed40b158ab58819738d925"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "f7b6947805559511a423f8ef9fe8b64051440cd545c7bcbc82cc862365c52657"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "cd2d38fd686df435e06755fa2ef6d852cbd2a0ece27475c589c18c236b131b1e"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "a2cd5329417fe6dfd43d8a5b8a8ae90d0633bba343ed40948b36ccb2baa416dd"
 
@@ -1369,8 +1377,16 @@ file = "config/effective_fg-client.toml"
 hash = "c86c21683479e7af6df4c70d57f61018e9116ed347ec55df1926d122c830d891"
 
 [[files]]
+file = "config/emi.css"
+hash = "21020142b27c78c38cfc582cab3467f97ac855b5b9ebe208acc04df7f5b4b69b"
+
+[[files]]
 file = "config/endermanoverhaul.toml"
 hash = "7686dcbfb35e4768ea628228f21ad2193373c9f5634707e85a5932c21b36fdb1"
+
+[[files]]
+file = "config/engineersdecor-common.toml"
+hash = "647bfe19e07a3e4755dbcee5b9197cf8120a49ca95eea35629298b70a24a2081"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1597,6 +1613,10 @@ file = "config/irons_rpg_tweaks-client.toml"
 hash = "1d2ce9d372b7b337bd4f85a42298b24d608f44c62dff0a55e6bb144287a92077"
 
 [[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "5adbfa229e2fd5ceacfea0422d41638c1c1856d7edd8e66a28e891a2c7263829"
+
+[[files]]
 file = "config/jade/hide-blocks-1902.json"
 hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
 
@@ -1614,11 +1634,39 @@ hash = "29b405535d6463b062bb771565629167580ef25e014f0058d7e26a7e21826a45"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "736831165effe9891e7013ab946a9f43530c85390f4018eee2250787676e174c"
+hash = "a22c10f4ddec9c42e479190b9bd3eb9711fd15589d8b898cc41785d5e2e5111b"
 
 [[files]]
 file = "config/jeed-client.toml"
 hash = "ba66d3903e6e26124c1e8f1f5c841ec73778e3d844113de781f496b197065e20"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "276745a3b226431a141a03cc859e070e13a1bc7a817b4545abd20fa8dec2817e"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
 
 [[files]]
 file = "config/kiwi-client.toml"
@@ -1643,6 +1691,14 @@ hash = "bdba68cc47b3722ec0b8debe793eea47dc68b453dda9605593ac66a73c6eebda"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "758fc544d98cd7d8f75b0f944db016a4d2e46d7556074d23575a7c4b02c88152"
+
+[[files]]
+file = "config/map_atlases-client.toml"
+hash = "81b47a49fa46932bf998dee87d2aeebe3919fadb509db03402233768a1cd196f"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "3193ba9f5e8c3df60d6c76b27d237850bd26f941d4c67239ed0a8762197b949d"
 
 [[files]]
 file = "config/memorysettings.json"
@@ -1978,15 +2034,15 @@ hash = "6f42a5660d97fce327a89d36889cdcc079e1017f6cc612b1a2fa079d52d35fba"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "406609d5eab09ea13dd5f61f2ba58d83fecda5ce31cd59efeab923cd11452dfd"
+hash = "93a9fc393341ed6388736404097c4d43a98a9a0bf67fd06dbde59ae82df58f62"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8cd87319929e7d0f1e9d7e4a6a81f01d1156602ed86fff92c39ec496ffdcdeea"
+hash = "234dc056d1396323270703d041ce02e83abebcd9bc75f481b85f7caf332e4a45"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a318226607c147edf32fa2eecb25054f742646b273c4f77bc10e75b2054a4ce2"
+hash = "db66445bdf7e845594e3d2d29a1dd45c30c9a79107debcb061219c819f55bbcf"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2331,10 +2387,6 @@ hash = "32b2aa28a46549b80b0f1a7c08997c63003ca55fedc6721860f6d6c6f3222ddb"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "8b3fb9a71c8e020c761a921ce2b87ad7500fee735c55560e599d0e1701d65365"
-
-[[files]]
-file = "kubejs/config/defaultoptions.txt"
-hash = "cd2d38fd686df435e06755fa2ef6d852cbd2a0ece27475c589c18c236b131b1e"
 
 [[files]]
 file = "kubejs/config/probejs.json"
@@ -2745,6 +2797,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "ecef7d9d0b14d9ce754e2fdd5a936db7a5b9165e4ebd6d2e186cf0b3b28c03c1"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "cffcf234e2e1c4d17635471bba6da79a99837f6755e9cc8201b22abff447a0fb"
 metafile = true
 
 [[files]]

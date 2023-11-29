@@ -7,7 +7,7 @@
 		enable_mod = true
 		#Require the Calender item to be in the players inventory to show the HUD? 
 		# (true/false)
-		need_calendar = false
+		need_calendar = true
 		#The horizontal offset of the HUD when no minimap is installed (in pixels)
 		# Default is 0
 		hud_x_position = 0
