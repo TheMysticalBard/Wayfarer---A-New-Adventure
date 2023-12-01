@@ -2685,6 +2685,11 @@ hash = "5d9aa68db8ad8a7bfc9aae2298e56b76d690b165f618b8cee4f565109e96ab9b"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "3d66ec4b5518f21dff9f1fa57ae1010d961f5ca8a273469fde5b2fa883c768c2"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "8520d6e202b7fd6b5edb0456e8974b45cdee30c2cc7df345c329cca3bd3e258a"
 metafile = true
@@ -2697,6 +2702,11 @@ metafile = true
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "db376ab0775d399127e53fa41fa407adab2cf025ac3b712d47dc2753fa95f43c"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5310e389fc77e7f725a2b68ecea8c82034858371bcc9b4ef6693584a43447033"
 metafile = true
 
 [[files]]
@@ -2882,6 +2892,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "43f19afbb308bff77774f842401b2b68cf60252f9e65091686a0c90634e6679a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
 metafile = true
 
 [[files]]
@@ -3317,6 +3332,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+metafile = true
+
+[[files]]
+file = "mods/respiteful.pw.toml"
+hash = "2fbdb33e4e276c6489a21240ffa0fcdf7791fb3128ce79d8845a67bde06d0ab9"
 metafile = true
 
 [[files]]
