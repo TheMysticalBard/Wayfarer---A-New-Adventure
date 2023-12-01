@@ -3210,6 +3210,11 @@ hash = "01a057038ff0001c216ed30504059aa681151010aa9b2810214e166de1da61a8"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "d55f656327a5aa68d76e63ff638ae456d8e57e0e02284c18e2e445f54e8dcb5e"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "0d3885119af0e97032f87492c831caec9957c63aec588b20581e3a17fbc9a2d8"
 metafile = true
