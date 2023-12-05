@@ -1,0 +1,13 @@
+name = "Loquat 🧩"
+filename = "Loquat-1.19.2-forge-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnn6vBkh/versions/8Yz5BqF6/Loquat-1.19.2-forge-1.2.4.jar"
+hash-format = "sha1"
+hash = "aa302ebb502475cdca855fd210364af0e2be365c"
+
+[update]
+[update.modrinth]
+mod-id = "xnn6vBkh"
+version = "8Yz5BqF6"
