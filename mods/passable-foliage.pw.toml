@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳"
+filename = "PassableFoliage-1.19.1-forge-5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uaLW6JVR/versions/tpSZy1iF/PassableFoliage-1.19.1-forge-5.2.1.jar"
+hash-format = "sha1"
+hash = "1031bef8246197fb60b24c75e2e478475931acbc"
+
+[update]
+[update.modrinth]
+mod-id = "uaLW6JVR"
+version = "tpSZy1iF"
