@@ -2839,6 +2839,11 @@ hash = "9bd94ebfa9c1ee04af2207bbd6435f9260db903ff3336fa77bc7d0444de40ecc"
 metafile = true
 
 [[files]]
+file = "mods/ctov-waystone-compat.pw.toml"
+hash = "4c572863449a8e8355870f80cc1ac419845250463b8df43243951f5feaeab461"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
@@ -3826,6 +3831,11 @@ metafile = true
 [[files]]
 file = "paxi/datapacks/repurposed-structures-yungs-better-nether-fortress-compat.pw.toml"
 hash = "45e53d1e37ff906dfbaabd51d06e1cc7ca27d3cb8dc5465b52e371b8093f2ccd"
+metafile = true
+
+[[files]]
+file = "paxi/datapacks/towers-of-the-wild-reworked.pw.toml"
+hash = "f20574dd4c14fcebce36d2963a5174ff003f889b688eb3b31bf9c41591109ccb"
 metafile = true
 
 [[files]]
