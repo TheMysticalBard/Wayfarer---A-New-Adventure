@@ -1,13 +1,13 @@
 name = "SeasonHUD"
-filename = "seasonhud-forge-1.19.2-1.6.2.jar"
+filename = "seasonhud-forge-1.19.x-1.6.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/pvyjeKwz/seasonhud-forge-1.19.2-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/6cq009HE/seasonhud-forge-1.19.x-1.6.3.jar"
 hash-format = "sha1"
-hash = "673ce050e8d347397a83f13955f78d64787bc488"
+hash = "83568039ad321c59c8d016297ce572621caf6f20"
 
 [update]
 [update.modrinth]
 mod-id = "VNjUn3NA"
-version = "pvyjeKwz"
+version = "6cq009HE"

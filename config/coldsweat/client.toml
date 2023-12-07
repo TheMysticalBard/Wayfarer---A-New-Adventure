@@ -22,10 +22,10 @@
 	"X Offset" = 0
 	#The y position of the gauge relative to default
 	#Range: > -2147483648
-	"Y Offset" = 0
+	"Y Offset" = -20
 
 ["UI Options"]
-	"Custom hotbar layout" = false
+	"Custom hotbar layout" = true
 	#Controls whether UI elements will shake when in critical conditions
 	"Icon Bobbing" = true
 

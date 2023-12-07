@@ -1,13 +1,13 @@
 name = "Responsive Shields"
-filename = "responsiveshields-2.2.jar"
+filename = "responsiveshields-2.3-mc1.18-19-20.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/m5YnxC6b/responsiveshields-2.2.jar"
+url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/6vuwab6O/responsiveshields-2.3-mc1.18-19-20.x.jar"
 hash-format = "sha1"
-hash = "8730634577261c83acb51f6c47d6759cb77e4d1b"
+hash = "51bac4566c689abe50f5016b1de3de807a1a78aa"
 
 [update]
 [update.modrinth]
 mod-id = "MBmh0f9A"
-version = "m5YnxC6b"
+version = "6vuwab6O"

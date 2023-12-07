@@ -13,7 +13,7 @@
 	manaBarXOffset = 0
 	manaBarTextVisible = true
 	#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
-	manaBarAnchor = "Hunger"
+	manaBarAnchor = "BottomLeft"
 
 [Renderers]
 	#By default, both fireballs are replaced with an enhanced model used by fire spells.

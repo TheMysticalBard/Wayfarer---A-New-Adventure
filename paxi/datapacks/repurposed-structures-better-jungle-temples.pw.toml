@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Better Jungle Temples Compat"
-filename = "Repurposed_Structures-Better_Jungle_Temples_v1_2.zip"
+filename = "Repurposed_Structures-Better_Jungle_Temples_v1_3.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gAvG8ZeC/versions/5Yrcl6I3/Repurposed_Structures-Better_Jungle_Temples_v1_2.zip"
+url = "https://cdn.modrinth.com/data/gAvG8ZeC/versions/NujnleHR/Repurposed_Structures-Better_Jungle_Temples_v1_3.zip"
 hash-format = "sha1"
-hash = "601dd86b55d2cbeba7382a4b2be9cc8048f9a785"
+hash = "26cacb7fe49470eecadac68c38bd76c2293719f5"
 
 [update]
 [update.modrinth]
 mod-id = "gAvG8ZeC"
-version = "5Yrcl6I3"
+version = "NujnleHR"
