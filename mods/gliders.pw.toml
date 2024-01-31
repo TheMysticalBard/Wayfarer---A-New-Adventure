@@ -3,11 +3,11 @@ filename = "vc_gliders-forge-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/WrYjZTyl/vc_gliders-forge-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/CjFIpNvl/vc_gliders-forge-1.1.4.jar"
 hash-format = "sha1"
-hash = "b7016c598387271f1ee101ccc1901295b7426ec3"
+hash = "93fce369883eb36954a01b96b1a411a8ba2fbb86"
 
 [update]
 [update.modrinth]
 mod-id = "XiC6HzoU"
-version = "WrYjZTyl"
+version = "CjFIpNvl"

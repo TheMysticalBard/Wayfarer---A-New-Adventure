@@ -1,13 +1,13 @@
 name = "Deep Aether"
-filename = "deep_aether-1.19.2-1.0.4.jar"
+filename = "deep_aether-1.19.2-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gcHIih5B/versions/pbBMWjKu/deep_aether-1.19.2-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/gcHIih5B/versions/GfpTp5We/deep_aether-1.19.2-1.0.1.jar"
 hash-format = "sha1"
-hash = "b227084b7af356051a9be71b2b9cc9742a293f37"
+hash = "9a88b63de1593aa9164accef3c20a4d939f61a23"
 
 [update]
 [update.modrinth]
 mod-id = "gcHIih5B"
-version = "pbBMWjKu"
+version = "GfpTp5We"

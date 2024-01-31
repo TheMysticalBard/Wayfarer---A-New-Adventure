@@ -1,13 +1,13 @@
 name = "Separated Leaves"
-filename = "separatedleaves-2.2.1-forge-1.19.2.jar"
+filename = "separatedleaves-2.3.0-forge-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xEu0FTVG/versions/n1RURY8q/separatedleaves-2.2.1-forge-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/xEu0FTVG/versions/oKdY7gTc/separatedleaves-2.3.0-forge-1.19.2.jar"
 hash-format = "sha1"
-hash = "c7cab5764372ee90161fd24672ff0b9c607ccde3"
+hash = "df21dd83335ddbaa4e212fb3f245e94bc600a595"
 
 [update]
 [update.modrinth]
 mod-id = "xEu0FTVG"
-version = "n1RURY8q"
+version = "oKdY7gTc"
