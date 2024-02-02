@@ -1,12 +1,12 @@
 name = "Wayfarer - A New Adventure"
 author = "TheMysticalBard"
-version = "0.3.4-alpha"
+version = "0.4.2-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "abc59a91f756ea5c1ce668b91edf7150216f9ef8ed16df63c2aa1b95b7fc3930"
+hash = "83a207c5ad94cb6b2bfb0bf38ebd9c48bd2d6ffc5965fc605455c1bb4ada310b"
 
 [versions]
 forge = "43.3.7"

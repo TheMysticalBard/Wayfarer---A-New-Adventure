@@ -3464,6 +3464,11 @@ hash = "d23dbf79c0704ba7d1535b0d145bc6599156354c4f5b94a2a3341bf4e8d26f7a"
 metafile = true
 
 [[files]]
+file = "mods/second-chance-forge.pw.toml"
+hash = "81b6edd6b14a3fb29a5a0e62f2c6d465972c6e52844c372a08d599c3bb6334c7"
+metafile = true
+
+[[files]]
 file = "mods/separated-leaves.pw.toml"
 hash = "7fe2274ee8234aad7705622e14cda8d2788a43563a16a81b185e5431face56d4"
 metafile = true
